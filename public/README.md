@@ -13,3 +13,4 @@ Como montamos no incio da disciplina um wireframe, decidi criar um em html :
 ![alt text](wireframe.png)
 
 $ PRINT DA HOME-PAGE CRIADA PARA O PROJETO :
+![alt text](../printHomePage.png)
